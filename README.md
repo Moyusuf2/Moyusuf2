@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/urlmohamedyusuf/](https://www.linkedin.com/in/urlmohamedyusuf/)
+- 📄 Connect with me: [https://www.linkedin.com/in/urlmohamedyusuf/](https://www.linkedin.com/in/urlmohamedyusuf/)
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
