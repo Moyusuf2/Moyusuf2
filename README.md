@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 📄 Connect with me: [https://www.linkedin.com/in/urlmohamedyusuf/](https://www.linkedin.com/in/urlmohamedyusuf/)
+- Connect with me: [https://www.linkedin.com/in/urlmohamedyusuf/](https://www.linkedin.com/in/urlmohamedyusuf/)
 
 
 <p align="left">
