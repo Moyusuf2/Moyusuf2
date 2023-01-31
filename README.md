@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Yusuf</h1>
 <h3 align="center">A passionate Full Stack Software developer</h3>
 
-- 🎓 Just graduated from **Prime Digital Academy** and ready to conquer the world of software development!
+- 🎓 Recently graduated from **Prime Digital Academy** and ready to conquer the world of software development!
 - 🚀 My current focus is on gaining a deeper understanding of **data structures and algorithms** and applying them in my projects.
 
 <h3 align="center">Connect with me:</h3>
